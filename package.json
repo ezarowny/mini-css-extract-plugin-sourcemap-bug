@@ -1,0 +1,21 @@
+{
+  "name": "mini-css-extract-plugin-sourcemap-bug",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "build": "webpack-cli"
+  },
+  "devDependencies": {
+    "css-loader": "^0.28.11",
+    "mini-css-extract-plugin": "^0.4.1",
+    "node-sass": "^4.9.3",
+    "sass-loader": "^7.0.3",
+    "webpack": "^4.15.1",
+    "webpack-cli": "^3.0.8"
+  },
+  "main": "webpack.config.js",
+  "dependencies": {},
+  "author": "Daniel Jackson",
+  "license": "ISC",
+  "description": ""
+}
